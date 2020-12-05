@@ -1,12 +1,12 @@
 const successEngine = {
-    _personalityTypes = [
+    personalityTypes = [
         // Source: https://www.16personalities.com/personality-types
         "Architect [INTJ] - Imaginative and strategic thinkers, with a plan for everything.",
         "Logician [INTP] - Innovative inventors with an unquenchable thirst for knowledge.",
         "Commander [ENTJ] - Bold, imaginative and strong-willed leaders, always finding a way - or making one.",
         "Debater [ENTP] - Smart and curious thinkers who cannot resist an intellectual challenge."
     ],
-    _workPrinciples = [
+    workPrinciples = [
         // Source: https://www.erfolgsprinzipien.com/Content/Principles%20Excerpt.pdf
         "Realize that you have nothing to fear from knowing the truth.",
         "Have integrity and demand it from others.",
@@ -26,7 +26,7 @@ const successEngine = {
         "Treasure honorable people who are capable and\
         will treat you well even when you’re not looking."
     ],
-    _lifePrinciples = [
+    lifePrinciples = [
         // Source: https://www.erfolgsprinzipien.com/Content/Principles%20Excerpt.pdf
         "Dreams + Reality + Determination = A Successful Life.",
         "Truth—or, more precisely, an accurate understanding of\
@@ -43,4 +43,4 @@ const successEngine = {
     ]
 
 };
-console.log(successEngine._personalityTypes[1]);
+console.log(successEngine.personalityTypes[1]);
