@@ -79,8 +79,8 @@ Project is: _finished_
 
 ## Inspiration
 
-Thanks to Ray Dalio's and his inspiring book "Life and Work Principles"
+Thanks to Ray Dalio and his inspiring book "Life and Work Principles"
 
 ## Contact
 
-Created by [@pwagnerde](https://github.com/pwagnerde) - feel free to contact me!
+Created by [@pwagnerde](https://www.linkedin.com/in/pwagnerde/) - feel free to contact me!
