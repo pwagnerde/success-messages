@@ -43,10 +43,10 @@ const successMessages = {
 let personalMessages = [];
 personalMessages.push("The Success Machine. Helping people to be at their natural best.");
 
-// Iterate over the object
+// Iterate over the success engine object
 for(let prop in successMessages) {
 let index = generateRandomNumber(successMessages[prop].length);
-// use the object's properties to customize the message being added to personalWisdom  
+// use the object's properties to customize the message being added to personalMessages  
     switch(prop) {
       case 'workPrinciples':
            personalMessages.push("To be successful at work you should follow this principle:");
